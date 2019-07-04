@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="number" label="Number" language="en" table="x_snc_k19_hello_wo_k19_hello_world_table">
+    <sys_documentation element="xxx" label="Xxx" language="en" table="x_snc_k19_hello_wo_k19_hello_world_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>xxx</element>
             <help/>
             <hint/>
-            <label>Number</label>
+            <label>Xxx</label>
             <language>en</language>
             <name>x_snc_k19_hello_wo_k19_hello_world_table</name>
-            <plural>Numbers</plural>
+            <plural>Xxxes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-07 20:48:10</sys_created_on>
-            <sys_id>ef3facf7db123300fcc3f36f299619b1</sys_id>
+            <sys_created_on>2019-07-04 06:15:50</sys_created_on>
+            <sys_id>3010bc7bdb123300fcc3f36f299619b6</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number</sys_name>
+            <sys_name>Xxx</sys_name>
             <sys_package display_value="K19 Hello World" source="x_snc_k19_hello_wo">818b01ddf11533007f44e9dc9c31e6ab</sys_package>
             <sys_policy/>
             <sys_scope display_value="K19 Hello World">818b01ddf11533007f44e9dc9c31e6ab</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_k19_hello_wo_k19_hello_world_table_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_k19_hello_wo_k19_hello_world_table_xxx_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-07 20:48:10</sys_updated_on>
+            <sys_updated_on>2019-07-04 06:15:50</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

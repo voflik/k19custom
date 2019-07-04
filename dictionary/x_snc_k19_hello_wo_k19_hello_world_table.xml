@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="K19 Hello World Table" max_length="40" name="x_snc_k19_hello_wo_k19_hello_world_table" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="xxx" max_length="40" name="xxx" type="string"/>
     </element>
 </database>
